@@ -1,0 +1,20 @@
+i.circular.add.icon{
+    color: wheat;
+
+}
+i:hover{
+    color: white !important;
+    background-color: gray;
+}
+.post__modal{
+    display: flex;
+}
+.ui.modal .actions>.button {
+ margin-top: 7px;
+ margin-bottom: 2px;
+ margin-left:2px;
+  
+}
+.ui.button, .ui.buttons .button, .ui.buttons .or {
+    font-size: .7rem;
+}

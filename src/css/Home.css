@@ -1,0 +1,9 @@
+.posts__array{
+    display: inline;
+}
+.page__title{
+    display: block !important;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 10px;
+}
