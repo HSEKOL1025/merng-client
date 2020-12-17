@@ -65,7 +65,6 @@ function PostForm() {
         <Modal 
         as={Form}
         size="tiny"
-        open={true}
         dimmer={'blurring'}
         onClose={() => setOpen(false)}
         onOpen={() => setOpen(true)}
