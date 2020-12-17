@@ -17,6 +17,7 @@
     "apollo-link-http": "^1.5.17",
     "graphql": "^15.4.0",
     "graphql-tag": "^2.11.0",
+    "jwt-decode": "^3.1.2",
     "moment": "^2.29.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -50,5 +51,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy" : "https://secret-spire-62173.herokuapp.com/"
+  "proxy": "https://secret-spire-62173.herokuapp.com/"
 }
